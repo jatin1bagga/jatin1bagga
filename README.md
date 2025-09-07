@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on ML projects<br>🌱 I’m currently learning DL And GenAi<br>💬 Ask me about my placements<br>⚡ Fun fact JUST STARTED<br>
 
-                                          ![Laugh Tech GIF by Chiragh Baloch](https://github.com/user-attachments/assets/1c7452c5-0444-48c0-aab5-cef42e7f4572)
+![Laugh Tech GIF by Chiragh Baloch](https://github.com/user-attachments/assets/1c7452c5-0444-48c0-aab5-cef42e7f4572)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/buggs._.bunny20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-bagga-b726011a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aloc1345@gmail.com) 
