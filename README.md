@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jatin Bagga</h1>
 <h3 align="center">🚀 Passionate about Machine Learning, AI, and Data Science</h3>
 
+![200w](https://github.com/user-attachments/assets/4c07bd83-916d-4380-bba0-310caf7a7664)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin1bagga&label=Profile%20views&color=0e75b6&style=flat" alt="jatin1bagga" /> </p>
 
 - 🔭 I’m currently working on [SignBridge](www.github.com/jatin1bagga/SignBridge)
